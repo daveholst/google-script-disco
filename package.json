@@ -1,0 +1,19 @@
+{
+  "devDependencies": {
+    "@types/google-apps-script": "^1.0.46",
+    "@types/node": "^17.0.25",
+    "nodemon": "^2.0.15"
+  },
+  "name": "google-script-disco",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:daveholst/google-script-disco.git",
+  "author": "Dave Holst <daveholst@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "esbuild": "^0.14.36",
+    "fast-xml-parser": "^4.0.7",
+    "ftp": "^0.3.10",
+    "ts-node": "^10.7.0"
+  }
+}
